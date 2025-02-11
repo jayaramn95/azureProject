@@ -1,0 +1,52 @@
+[
+    {
+        "relative_url" : "jayaramn95/azureDE/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+        "dynamic_sink" : "AdventureWorks_Product_Categories",
+        "dynamic_folder_name" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "relative_url" : "jayaramn95/azureDE/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "dynamic_sink" : "AdventureWorks_Calendar",
+        "dynamic_folder_name" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "relative_url" : "jayaramn95/azureDE/refs/heads/main/Data/AdventureWorks_Customers.csv",
+        "dynamic_sink" : "AdventureWorks_Customers",
+        "dynamic_folder_name" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "relative_url" : "jayaramn95/azureDE/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "dynamic_sink" : "Product_Subcategories",
+        "dynamic_folder_name" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "relative_url" : "jayaramn95/azureDE/refs/heads/main/Data/AdventureWorks_Products.csv",
+        "dynamic_sink" : "AdventureWorks_Products",
+        "dynamic_folder_name" : "AdventureWorks_Products.csv"
+    },
+    {
+        "relative_url" : "jayaramn95/azureDE/refs/heads/main/Data/AdventureWorks_Returns.csv",
+        "dynamic_sink" : "AdventureWorks_Returns",
+        "dynamic_folder_name":"AdventureWorks_Returns.csv"
+    },
+    {
+        "relative_url" : "jayaramn95/azureDE/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
+        "dynamic_sink" : "AdventureWorks_Sales_2015",
+        "dynamic_folder_name" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "relative_url" : "jayaramn95/azureDE/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+        "dynamic_sink" : "AdventureWorks_Sales_2016",
+        "dynamic_folder_name" : "AdventureWorks_Sales_2016.cvsv"
+    },
+    {
+        "relative_url" : "jayaramn95/azureDE/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+        "dynamic_sink" : "AdventureWorks_Sales_2017",
+        "dynamic_folder_name" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "relative_url" : "jayaramn95/azureDE/refs/heads/main/Data/AdventureWorks_Territories.csv",
+        "dynamic_sink" : "AdventureWorks_Territories",
+        "dynamic_folder_name" : "AdventureWorks_Territories.csv"
+    }
+]
